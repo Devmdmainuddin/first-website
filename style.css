@@ -9,3 +9,9 @@
 h3{
     color:turquoise;
 }
+.btn{
+    padding:15px;
+    background:#f53232;
+    color:#fff;
+    border-radius: 12px;
+}
